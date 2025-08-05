@@ -1,5 +1,5 @@
 
-# Amazon.in Sales Data  Analysis SQL Project
+# Amazon Sales Data  Analysis SQL Project
 
 
 ## 📊 Project Overview
